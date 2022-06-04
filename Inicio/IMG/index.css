@@ -164,7 +164,7 @@ h1{
     
     }
   }   
-@media screen and (max-width:500px){
+@media screen and (max-width:550px){
     .titulo,
     .textos-hero h1{
         font-size: 30px;
