@@ -156,7 +156,9 @@ h1{
         margin-bottom: 30px;
     }
 
-    .galeria-cont>img{
-        width: 97%;
+     .light-box img{
+        width: 351px;
+        max-height: 551px;
+    
     }
 }   
