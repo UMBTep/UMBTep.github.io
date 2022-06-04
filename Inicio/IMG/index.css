@@ -132,7 +132,7 @@ h1{
 
 }
 
-@media screen and (max-width:350px){
+@media screen and (max-width:400px){
     .titulo,
     .textos-hero h1{
         font-size: 30px;
@@ -146,7 +146,7 @@ h1{
 .textos-hero a{ 
     padding: 2px 1px 0;
     padding: 0;
-    width: 40%;
+    width: 25%;
     text-align: center;
   	margin: 10px;
 }
@@ -159,8 +159,8 @@ h1{
     }
 
       .light-box img{
-        width: 301px;
-        max-height: 501px;
+        width: 341px;
+        max-height: 541px;
     
     }
   }   
