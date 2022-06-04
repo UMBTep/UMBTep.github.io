@@ -148,17 +148,18 @@ h1{
     text-align: center;
   	margin: 5px;;
 }
+
     .card{
-        height: 380px;
+        height: 450px;
     }
 
     .website .contenedor-textos-main{
-        margin-bottom: 30px;
+        margin-bottom: 25px;
     }
 
-     .light-box img{
-        width: 351px;
-        max-height: 551px;
+      .light-box img{
+        width: 341px;
+        max-height: 541px;
     
     }
-}   
+  }   
