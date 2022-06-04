@@ -164,3 +164,35 @@ h1{
     
     }
   }   
+@media screen and (max-width:500px){
+    .titulo,
+    .textos-hero h1{
+        font-size: 30px;
+    }
+
+    .textos-hero p{
+        font-size: 20px;
+        text-align: center;
+    }
+.textos-hero a{ 
+    padding: 2px 1px 0;
+    padding: 0;
+    width: 25%;
+    text-align: center;
+  	margin: 5px;;
+}
+
+    .card{
+        height: 450px;
+    }
+
+    .website .contenedor-textos-main{
+        margin-bottom: 25px;
+    }
+
+      .light-box img{
+        width: 341px;
+        max-height: 541px;
+    
+    }
+  }   
