@@ -132,11 +132,12 @@ h1{
 
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:350px){
     .titulo,
     .textos-hero h1{
         font-size: 30px;
     }
+ 
 
     .textos-hero p{
         font-size: 20px;
@@ -145,22 +146,21 @@ h1{
 .textos-hero a{ 
     padding: 2px 1px 0;
     padding: 0;
-    width: 25%;
+    width: 40%;
     text-align: center;
-  	margin: 5px;;
+  	margin: 10px;
 }
-
     .card{
-        height: 450px;
+        height: 300px;
     }
 
     .website .contenedor-textos-main{
-        margin-bottom: 25px;
+        margin-bottom: 10px;
     }
 
       .light-box img{
-        width: 341px;
-        max-height: 541px;
+        width: 300px;
+        max-height: 500px;
     
     }
   }   
