@@ -141,7 +141,13 @@ h1{
         font-size: 20px;
         text-align: center;
     }
-
+.textos-hero a{ 
+    padding: 2px 1px 0;
+    padding: 0;
+    width: 25%;
+    text-align: center;
+  	margin: 5px;;
+}
     .card{
         height: 380px;
     }
